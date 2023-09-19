@@ -1,20 +1,20 @@
-### Olá! Eu sou Erik 👋
+# Hey there, I'm Erik! 👋
 
-# GitHub Stats and Top Languages 
-![Erik Santos' GitHub stats](https://github-readme-stats.vercel.app/api?username=erkss&rank_icon=github&show_icons=true&hide_title=true&hide=issues&theme=transparent&bg_color=000&line_height=25&title_color=999999&icon_color=999999&border_radius=3&text_color=FFF&border_color=2C2C2C)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erkss&layout=compact&show_icons=true&theme=transparent&bg_color=000&line_height=25&border_radius=3&title_color=999999&text_color=FFF&border_color=2C2C2C)
+## GitHub Stats and Top Languages
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erkss&rank_icon=github&hide_title=true&hide=issues&theme=transparent&bg_color=000&border_color=19F0F3&border_radius=3&show_icons=true&icon_color=19F0F3&title_color=19F0F3&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=erkss&layout=compact&theme=transparent&bg_color=000&border_color=19F0F3&border_radius=3&title_color=19F0F3&text_color=FFF)
 
-# Contact ✉️
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=999999)](https://www.linkedin.com/in/erik-santos-340a1923a/)
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=999999)](mailto:erik87160@gmail.com)
+## Contact 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=19F0F3)](https://www.linkedin.com/in/erik-santos-340a1923a/)
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=19F0F3)](mailto:erik87160@gmail.com)
 
-# Technologies and Tools 🔧
-![HTML5](https://img.shields.io/badge/html5-000000.svg?style=for-the-badge&logo=html5&logoColor=999999)
-![CSS3](https://img.shields.io/badge/css3-000000.svg?style=for-the-badge&logo=css3&logoColor=999999)
-![JavaScript](https://img.shields.io/badge/javascript-000000.svg?style=for-the-badge&logo=javascript&logoColor=999999)
-![Java](https://img.shields.io/badge/java-000000.svg?style=for-the-badge&logo=openjdk&logoColor=999999)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=999999)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=999999)
-![Git](https://img.shields.io/badge/git-000000.svg?style=for-the-badge&logo=git&logoColor=999999)
-![GitHub](https://img.shields.io/badge/github-000000.svg?style=for-the-badge&logo=github&logoColor=999999)
-![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=999999)
+## Technologies and Tools 
+![HTML5](https://img.shields.io/badge/html5-000.svg?style=for-the-badge&logo=html5&logoColor=19F0F3)
+![CSS3](https://img.shields.io/badge/css3-000.svg?style=for-the-badge&logo=css3&logoColor=19F0F3)
+![JavaScript](https://img.shields.io/badge/javascript-000.svg?style=for-the-badge&logo=javascript&logoColor=19F0F3)
+![Java](https://img.shields.io/badge/java-000.svg?style=for-the-badge&logo=openjdk&logoColor=19F0F3)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=19F0F3)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000.svg?style=for-the-badge&logo=intellij-idea&logoColor=19F0F3)
+![Git](https://img.shields.io/badge/git-000.svg?style=for-the-badge&logo=git&logoColor=19F0F3)
+![GitHub](https://img.shields.io/badge/github-000.svg?style=for-the-badge&logo=github&logoColor=19F0F3)
+![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=19F0F3)
