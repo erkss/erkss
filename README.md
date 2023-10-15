@@ -5,7 +5,7 @@
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=erkss&layout=compact&theme=transparent&bg_color=000&border_color=19F0F3&border_radius=3&title_color=19F0F3&text_color=FFF)
 
 ## Contact 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=19F0F3)](https://www.linkedin.com/in/erik-santos-340a1923a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=19F0F3)](https://www.linkedin.com/in/erkss/)
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=19F0F3)](mailto:erik87160@gmail.com)
 
 ## Technologies and Tools 
