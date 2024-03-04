@@ -2,9 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=19F0F3&size=25&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Erik;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erkss&rank_icon=false&theme=transparent&border_radius=2&border_color=19F0F3&hide_rank=true&show_icons=true&icon_color=19F0F3&title_color=19F0F3&text_color=FFF)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=erkss&layout=compact&theme=transparent&border_radius=2&card_width=305&border_color=19F0F3&title_color=19F0F3&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erkss&rank_icon=false&theme=transparent&border_radius=2&border_color=19F0F3&hide_rank=true&hide_title=true&show_icons=true&icon_color=19F0F3&title_color=19F0F3&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=erkss&layout=compact&theme=transparent&border_radius=2&card_width=304&border_color=19F0F3&title_color=19F0F3&text_color=FFF)
 
 ## Contact 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=19F0F3)](https://www.linkedin.com/in/erkss/)
