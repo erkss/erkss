@@ -26,17 +26,17 @@
 </div>
 
 ## Contact 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=19F0F3)](https://www.linkedin.com/in/erkss/)
-[![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=19F0F3)](mailto:erik87160@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/erkss/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:erik87160@gmail.com)
 
 ## Technologies and Tools 
-![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=C#&logoColor=19F0F3)
-![Java](https://img.shields.io/badge/java-0D1117?style=for-the-badge&logo=openjdk&logoColor=19F0F3)
-![JavaScript](https://img.shields.io/badge/javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=19F0F3)
-![Git](https://img.shields.io/badge/git-0D1117?style=for-the-badge&logo=git&logoColor=19F0F3)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-0D1117?style=for-the-badge&logo=intellij-idea&logoColor=19F0F3)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=19F0F3)
-![Windows](https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=19F0F3)
+![C#](https://skillicons.dev/icons?i=cs)
+![Java](https://skillicons.dev/icons?i=java)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![Git](https://skillicons.dev/icons?i=git)
+![IntelliJ](https://skillicons.dev/icons?i=idea)
+![VsCode](https://skillicons.dev/icons?i=vscode)
+![Windows](https://skillicons.dev/icons?i=windows)
 
 <!-- Footer Animation -->
 <p align="center">
