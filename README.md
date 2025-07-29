@@ -19,7 +19,7 @@
 <div align="center">
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=erkss&rank_icon=false&theme=transparent&border_radius=2&border_color=19F0F3&hide_rank=true&hide_title=true&show_icons=true&icon_color=19F0F3&title_color=19F0F3&text_color=FFF&bg_color=0D1117" alt="GitHub Stats" style="margin: 0 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=erkss&theme=transparent&border_radius=2&border_color=19F0F3&hide_rank=true&hide_title=true&show_icons=true&icon_color=19F0F3&title_color=19F0F3&text_color=FFF&bg_color=0D1117" alt="GitHub Stats" style="margin: 0 10px;" />
 
   <!-- Top Langs -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erkss&layout=compact&theme=transparent&border_radius=2&card_width=304&border_color=19F0F3&title_color=19F0F3&text_color=FFF&bg_color=0D1117" alt="Top Langs" style="margin: 0 10px;" />
