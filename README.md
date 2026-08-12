@@ -17,12 +17,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=19F0F3&height=20&section=header"/>
 </p>
 
- 
-<!-- GitHub Stats and Top Languages -->
-<div align="center">
 
-
-</div>
 <!-- Spacer -->
 <br/>
 
