@@ -27,21 +27,24 @@
 <br/>
 
 
+## Technologies & Tools
+
+**Languages**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,java,javascript" alt="C#, Java, JavaScript" />
+</p>
+
+**Tools**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,idea,vscode" alt="Git, IntelliJ IDEA, VS Code" />
+</p>
+
+
 ## Contact 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/erkss/)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:erik87160@gmail.com)
-
-
-## Technologies and Tools 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" />
-  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ" />
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" />
-  <img src="https://skillicons.dev/icons?i=windows" alt="Windows" />
-</p>
 
 
 <!-- Footer Animation -->
